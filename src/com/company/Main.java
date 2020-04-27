@@ -2,7 +2,7 @@ package com.company;
 // приведение типов
 public class Main {
     /**
-     *
+     * коммент
      * @param args
      */
     public static void main(String[] args) {
